@@ -16,10 +16,10 @@
   <summary><b>Get Luminos</b></summary>
 
   <ul>
-    <li>BuiltByBit - https://builtbybit.com/resources/luminos.43303/</li>
-    <li>ClearlyDev - https://clearlydev.com/product/luminos-lighting-at-your-fingertips/</li>
-    <li>Itch - https://glitching-dreams.itch.io/luminos</li>
-    <li>Roblox Creator Store - https://create.roblox.com/store/asset/17188739293/Luminos</li>
+    <li><a href="https://builtbybit.com/resources/luminos.43303/">BuiltByBit</a></li>
+    <li><a href="https://clearlydev.com/product/luminos-lighting-at-your-fingertips/">ClearlyDev</a></li>
+    <li><a href="https://glitching-dreams.itch.io/luminos">Itch</a></li>
+    <li><a href="https://create.roblox.com/store/asset/17188739293/Luminos">Roblox Creator Store</a></li>
   </ul>
 </details>
 
