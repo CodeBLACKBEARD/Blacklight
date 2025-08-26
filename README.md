@@ -133,3 +133,15 @@
 <br>
 <hr>
 <br>
+
+<h3 id="FAQ">FAQ</h3>
+
+<br>
+<hr>
+<br>
+
+<h6>
+© 2025 Colby Craig ("BLACKBEARD")
+<br>
+Licensed under GPL - 3.0
+</h6>
