@@ -24,7 +24,8 @@
 </details>
 
 <details>
-  <summary><b>Why Luminos is Now Free</b></summary>
+  <summary><b>Why Luminos is Now Free & Open-Source</b></summary>
+
   I used to charge $1.99 for this tool. Then I realized I was part of the problem I complain about.
 
   Every paywall, no matter how small, creates two groups: those who can access opportunity and those who can’t. I’ve watched talented developers held back not by lack of skill, but by lack of resources. I’ve been there myself; passed over by higher-ups who promised the world and delivered nothing but broken trust.
@@ -35,7 +36,7 @@
 
   Everyone deserves equal opportunity to succeed. Not equal outcomes - equal opportunity. That starts with removing barriers, not adding them.
 
-  This is my small rebellion against a system that profits from artificial scarcity. Use it, improve it, share it. #CodeBLACKBEARD
+  This is my small rebellion against a system that profits from artificial scarcity. Use it, improve it, share it. <a href="https://x.com/CodeBLACKBEARD">#CodeBLACKBEARD</a>
 </details>
 
 <br>
@@ -172,7 +173,6 @@
 
 <br>
 <hr>
-<br>
 
 <h6>
 © 2025 Colby Craig ("BLACKBEARD")
