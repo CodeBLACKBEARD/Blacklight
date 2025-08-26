@@ -60,7 +60,7 @@
 <br>
 
 <div align="center">
-  <h3 id="Demonstrations">Demonstrations</h3>
+  <h3 name="Demonstrations">Demonstrations</h3>
 
   <img src="./Media/Demo1.png"/>
   <img src="./Media/Demo2.png"/>
