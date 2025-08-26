@@ -1,4 +1,4 @@
-<img width="1800" height="400" alt="Luminos Text" src="https://github.com/user-attachments/assets/d755fdd2-b920-41f2-9029-24a7ff02f19a" />
+  <img src="./Media/LuminosText.png"/>
 
 <details>
   <summary><b>Table of Contents</b></summary>
@@ -49,7 +49,7 @@
 
   <img src="./Media/Preview.png"/>
 
-  <p></p>
+  &nbsp;
   
   From dramatic sunsets to vibrant cartoon skies, Luminos provides an array of gorgeous, artfully-crafted presets to instantly elevate your game’s visuals. With this lovingly crafted lighting library, beautifying your environments has never been easier.
 </div>
@@ -75,12 +75,11 @@
 
   To change your lighting with Luminos, simply select one of the presets from the plugin interface, and watch as it applies a complete makeover to your experience’s lighting, atmosphere, skies, color grading, and more.
 
-  <img src="./Media/PluginPresets.gif"/>
-  <img src="https://github.com/user-attachments/assets/81754891-4899-4bc8-b137-da06ccc0787a" alt="animated"/>
+  <img src="./Media/PluginPresets.gif">  
 
-  <p></p>
+  &nbsp;
   
-  <p>Luminos currently comes equipped with 13 uniquely beautiful presets:</p>
+  Luminos currently comes equipped with 13 uniquely beautiful presets:
 
   <table>
     <tr><td><b>After Rain</b> by <i>Mayhem</i></td></tr>
@@ -110,11 +109,13 @@
 
   Once you’ve adjusted your lighting to the look you’re after, save it as a custom user preset. With Luminos, you can build up an ever-expanding library of lighting setups, ready to be recalled whenever.
 
-  <img src="https://github.com/user-attachments/assets/cf810706-da5f-460d-8346-64bd35fd04c7" alt="animated"/>
+  <img src="./Media/UserPresets.gif">
 
-  <p></p>
-
+  &nbsp;
+  
   Want to make any changes? You can always overwrite a preset you've previously made by saving with the same name. Another way to alter your User Presets is by manually altering a preset's module. <a href="FindUserPresetsInExplorer">[See FAQ]</a>
+
+  <img src="./Media/Overwrite.gif"> 
 </div>
 
 <br>
@@ -126,7 +127,9 @@
 
   Sometimes, one little mistake is all it takes for your time and effort goes to waste. With Luminos’ autosave functionality, you don’t have to start at square one. The plugin automatically saves a backup of your latest lighting tweaks every time you open it, letting you easily restore your previous work with a couple clicks.
 
-  (gif)
+  <img src="./Media/Autosaves.gif">
+
+  &nbsp;
 
   By default, Luminos will store up to 10 autosaves. You can change this by typing in your preferred number of max autosaves.
 </div>
@@ -136,6 +139,36 @@
 <br>
 
 <h3 id="FAQ">FAQ</h3>
+
+<details>
+  <summary><b>What Happens If I Delete the Luminos Folders in Explorer?</b></summary>
+
+  This will delete all of your User Presets and Autosaves. These folders will be made again upon opening the plugin, but everything that was deleted is gone for good.
+</details>
+
+<details>
+  <summary><b>How Do I Install User Presets?</b></summary>
+
+  Insert the module for your new User Preset into the <a href="FindUserPresetsInExplorer">User Presets folder</a>.
+</details>
+
+<details>
+  <summary><b>What Is Meant by Missing Lighting Components?</b></summary>
+
+  If `game:GetService("Lighting")` does not have an Atmosphere, Sky, ColorCorrection, or Sunrays, Luminos will push a warning to output, reminding you that these components are missing. The plugin will still load and save presets without error, just without the missing component(s).
+</details>
+
+<details>
+  <summary><b>How Can I Share User Presets?</b></summary>
+
+  You can <a href="FindUserPresetsInExplorer">find the modules for your User Presets in Explorer</a>, then save them as models or copy their code to share them.
+</details>
+
+<details>
+  <summary><b>Where Do I Find User Presets and Autosaves in Explorer?</b></summary>
+
+  <a name="FindUserPresetsInExplorer"></a>They are all located in `ServerStorage` under the `Luminos` folder. If the folder does not exist, open the plugin to create them.
+</details>
 
 <br>
 <hr>
