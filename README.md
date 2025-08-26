@@ -47,7 +47,7 @@
   
   <p>Enter <b>Luminos</b> - a cutting-edge plugin that puts striking, cinema-quality lighting at your fingertips.</p>
 
-  <img width="690" height="324" alt="image" src="https://github.com/user-attachments/assets/1670902c-c622-4aee-9a0a-3eac94c1b91f" />
+  <img src="./Media/Preview.png"/>
 
   <p></p>
   
@@ -61,8 +61,8 @@
 <div align="center">
   <h3 id="Demonstrations">Demonstrations</h3>
 
-  <img width="690" height="324" alt="image" src="https://github.com/user-attachments/assets/dfe16e2b-532a-4191-91c9-9eda8c0d9e08" />
-  <img width="690" height="324" alt="image" src="https://github.com/user-attachments/assets/b492820e-da15-4657-b057-473fb5e6299a" />
+  <img src="./Media/Demo1.png"/>
+  <img src="./Media/Demo2.png"/>
 
 </div>
 
@@ -75,6 +75,7 @@
 
   To change your lighting with Luminos, simply select one of the presets from the plugin interface, and watch as it applies a complete makeover to your experience’s lighting, atmosphere, skies, color grading, and more.
 
+  <img src="./Media/PluginPresets.gif"/>
   <img src="https://github.com/user-attachments/assets/81754891-4899-4bc8-b137-da06ccc0787a" alt="animated"/>
 
   <p></p>
