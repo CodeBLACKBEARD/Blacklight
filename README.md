@@ -5,11 +5,10 @@
 
   <ul>
     <li><a href="./README.md#demonstrations">Demonstrations</a></li>
-    <li><a href="Demonstrations">Demonstrations</a></li>
-    <li><a href="Plugin Presets">Plugin Presets</a></li>
-    <li><a href="User Presets">User Presets</a></li>
-    <li><a href="Autosaves">Autosaves</a></li>
-    <li><a href="FAQ">FAQ</a></li>
+    <li><a href="./README.md#plugin-presets">Plugin Presets</a></li>
+    <li><a href="./README.md#user-presets">User Presets</a></li>
+    <li><a href="./README.md#autosaves">Autosaves</a></li>
+    <li><a href="./README.md#faq">FAQ</a></li>
   </ul>
 </details>
 
