@@ -4,7 +4,7 @@
   <summary><b>Table of Contents</b></summary>
 
   <ul>
-    <li>[Demonstrations](#Demonstrations)</li>
+    <li><a href="./README.md#demonstrations">Demonstrations</a></li>
     <li><a href="Demonstrations">Demonstrations</a></li>
     <li><a href="Plugin Presets">Plugin Presets</a></li>
     <li><a href="User Presets">User Presets</a></li>
@@ -61,7 +61,6 @@
 <br>
 
 <div align="center">
-  ### Demonstrations
   <h3 name="Demonstrations">Demonstrations</h3>
 
   <img src="./Media/Demo1.png"/>
