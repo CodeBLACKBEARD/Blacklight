@@ -60,7 +60,7 @@
 <br>
 
 <div align="center">
-  <h3 name="Demonstrations">Demonstrations</h3>
+  <h3 id="Demonstrations">Demonstrations</h3>
 
   <img src="./Media/Demo1.png"/>
   <img src="./Media/Demo2.png"/>
@@ -150,7 +150,7 @@
 <details>
   <summary><b>How Do I Install User Presets?</b></summary>
 
-  Insert the module for your new User Preset into the <a href="FindUserPresetsInExplorer">User Presets folder</a>.
+  Insert the module for your new User Preset into the <a href="./README.md#find-user-presets-in-explorer">User Presets folder</a>.
 </details>
 
 <details>
@@ -162,13 +162,13 @@
 <details>
   <summary><b>How Can I Share User Presets?</b></summary>
 
-  You can <a href="FindUserPresetsInExplorer">find the modules for your User Presets in Explorer</a>, then save them as models or copy their code to share them.
+  You can <a href="./README.md#find-user-presets-in-explorer">find the modules for your User Presets in Explorer</a>, then save them as models or copy their code to share them.
 </details>
 
 <details>
   <summary><b>Where Do I Find User Presets and Autosaves in Explorer?</b></summary>
 
-  <a name="FindUserPresetsInExplorer"></a>They are all located in `ServerStorage` under the `Luminos` folder. If the folder does not exist, open the plugin to create them.
+  <a name="find-user-presets-in-explorer"></a>They are all located in `ServerStorage` under the `Luminos` folder. If the folder does not exist, open the plugin to create them.
 </details>
 
 <br>
