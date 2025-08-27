@@ -18,6 +18,7 @@
   <ul>
     <li><a href="https://builtbybit.com/resources/luminos.43303/">BuiltByBit</a></li>
     <li><a href="https://clearlydev.com/product/luminos-lighting-at-your-fingertips/">ClearlyDev</a></li>
+    <li><a href="https://github.com/CodeBLACKBEARD/LUMINOS">GitHub</a></li>
     <li><a href="https://glitching-dreams.itch.io/luminos">Itch</a></li>
     <li><a href="https://create.roblox.com/store/asset/17188739293/Luminos">Roblox Creator Store</a></li>
   </ul>
