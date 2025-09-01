@@ -140,7 +140,7 @@
 <hr>
 <br>
 
-<h3 id="FAQ">FAQ</h3>
+<h3 id="FAQ"><div align="center">FAQ</div></h3>
 
 <details>
   <summary><b>What Happens If I Delete the Luminos Folders in Explorer?</b></summary>
